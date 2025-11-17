@@ -1,5 +1,3 @@
-<img src="https://github.com/quyenptb/quyenptb/blob/main/avatar.jpg?raw=true" align="right" width="220" style="border-radius:12px;" alt="Phan Thi Bich Quyen"/>
-
 # Hi there, I'm Phan Thị Bích Quyên
 **Final-year IT Student | Java Backend Developer | Targeting Core Banking & Digital Banking**
 
@@ -32,10 +30,5 @@
 ##  Achievements
 - **Top 5 TECHSPIRE 2025** – SEA Tech Skill Challenge (Web & Mobile Stack)
 - Certified **Implementing IT Projects with SCRUM** – Axon Active
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quyenptb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quyenptb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 > Always with love
