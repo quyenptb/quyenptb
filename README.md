@@ -31,4 +31,3 @@
 - **Top 5 TECHSPIRE 2025** – SEA Tech Skill Challenge (Web & Mobile Stack)
 - Certified **Implementing IT Projects with SCRUM** – Axon Active
 
-> Always with love
