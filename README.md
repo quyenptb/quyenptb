@@ -1,5 +1,5 @@
 # Hi there, I'm Phan Thị Bích Quyên
-**Final-year IT Student | Java Backend Developer | Targeting Core Banking & Digital Banking**
+**Final-year IT Student | Java Backend Developer**
 
 [![Gmail](https://img.shields.io/badge/Gmail-phanquyenbtx@gmail.com-red?logo=gmail)](mailto:phanquyenbtx@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0358749792-brightgreen)](tel:+84358749792)
@@ -28,6 +28,5 @@
 | **DahoHelping Forum (Backend)** | VNU-HCM student community forum – designed full Oracle schema & REST APIs | Spring Boot, Spring Security, Oracle DB, React.js | [quyenptb/dahohelping-springboot](https://github.com/quyenptb/dahohelping-springboot) |
 
 ##  Achievements
-- **Top 5 TECHSPIRE 2025** – SEA Tech Skill Challenge (Web & Mobile Stack)
 - Certified **Implementing IT Projects with SCRUM** – Axon Active
 
