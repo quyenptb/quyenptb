@@ -1,13 +1,10 @@
-# Hi there, I'm Phan Thị Bích Quyên
-**New Grad from VNU-HCMC| On my adventure to be a Product Engineer**
+# Hi there, I'm Quyen Phan
+**New Grad from VNU-HCMC | On my adventure to be a Product Engineer**
 
 [![Gmail](https://img.shields.io/badge/Gmail-phanquyenbtx@gmail.com-red?logo=gmail)](mailto:phanquyenbtx@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0358749792-brightgreen)](tel:+84358749792)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phan%20Thị%20Bích%20Quyên-blue?logo=linkedin)](https://www.linkedin.com/in/quyenptb27)
 [![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-lightgrey)](https://goo.gl/maps)
-
-> Final-year student at **University of Information Technology (VNU-HCMC)** – Expected graduation **March 2026**  
-> Passionate about building robust, secure financial systems with **Java Spring Boot & Oracle DB**
  
 
 ## Technical Skills
