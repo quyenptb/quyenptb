@@ -1,5 +1,5 @@
 # Hi there, I'm Phan Thị Bích Quyên
-**Final-year IT Student | Java Backend Developer**
+** New Grad from VNU-HCMC| On my adventure to be a Product Engineer **
 
 [![Gmail](https://img.shields.io/badge/Gmail-phanquyenbtx@gmail.com-red?logo=gmail)](mailto:phanquyenbtx@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0358749792-brightgreen)](tel:+84358749792)
