@@ -1,5 +1,5 @@
-# Hi there, I'm Quyen Phan
-**New Grad from VNU-HCMC | On my adventure to be a Product Engineer**
+# Hi there, I'm Grace Phan
+**Associate Consultant @ Thoughtworks | TechSpire 2025 Champion | Engineering software with a Product mindset**
 
 [![Gmail](https://img.shields.io/badge/Gmail-phanquyenbtx@gmail.com-red?logo=gmail)](mailto:phanquyenbtx@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0358749792-brightgreen)](tel:+84358749792)
